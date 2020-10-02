@@ -19,4 +19,4 @@ print(msg1); // I can't find how to output in Swift.
   
 
 
-// Stay safe!
+// Stay safe! Wear a mask, stay 6 feet apart. Flatten the curve. We can beat this!
