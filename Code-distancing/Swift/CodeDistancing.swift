@@ -5,7 +5,7 @@
 
 
 
-msg1 str = "Keep your Java code safe from COVID-19 by staying 6 line breaks apart";
+msg1 str = "Keep your Swift code safe from COVID-19 by staying 6 line breaks apart";
 
 
 
