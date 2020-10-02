@@ -1,4 +1,4 @@
-/ Code distancing for Java
+// Code distancing for Java
 
 
 
