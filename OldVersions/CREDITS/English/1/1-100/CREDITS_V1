@@ -1,0 +1,53 @@
+
+---
+
+{{int:version-credits-summary}}
+Seanpm2001-Code-distancing is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of this project
+2. No other contributors as of Wednesday, August 25th 2021
+
+== Developers ==
+
+People who indirectly contributed to this project
+
+1. @Google - For usage of Blockly, Go, Dart, Flutter, and some other languages, which are to be DeGoogled
+2. @FrancisMcCabe - For usage of Go!
+3. @Microsoft - For usage of TypeScript, C#, F#, Q#, and several other languages
+4. @FaceBook - For usage of Hack, and some other languages
+5. @Apple - For usage of Swift, Objective-C, Objective-C++, Squeak, and some other programming languages
+6. @Shopify - For usage of the Liquid Ruby template
+7. @GitHub - For hosting this project for the first time
+8. @Jetbrains - For usage of Kotlin
+9. @Mozilla - For usage of Nunjucks, and some other languages. Also thank you for helping contribute to an open web
+10. @Commodore - For usage of BASIC, and some other languages
+11. @GNOME - For usage of Vala, Genie, and some other languages
+12. @GNU - For licensing and other important services
+13. @Wolfram - For usage of Mathematica
+14. @Wikimedia - For inspiration and community usage of source code
+15. @PHPFoundation - For the usage of PHP
+16. @DMR - For the usage of C, UNIX, and many other legendary contributions to computer science
+17. @Ken - For the usage of Cm UNIX, and many other legendary contributions to computer science
+18. @Adafoundation - For the usage of Ada
+19. @Roku - For the usage of BrightScript
+20. @PerlGroup - For the usage of Perl, Raku, and some other languages
+21. @Git - For the usage of Git
+22. @Dlang - For the usage of the D programming language
+23. @Cappuchino - For the usage of the Objective-J programming language
+24. @SunMicroSystems/Oracle - For the usage of Java and some other languages
+25. @BjarneStrousnip - For the usage of C++
+26. @FORTRAN - For the usage of FORTRAN
+27. @ALGOL - For the usage of the ALGOL programming language
+Many others not listed yet
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. No other contributors as of Wednesday, August 25th 2021
+
+---
